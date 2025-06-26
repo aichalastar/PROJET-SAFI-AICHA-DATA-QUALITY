@@ -1,0 +1,7 @@
+RÉSULTATS EXHAUSTIVITÉ
+==============================
+
+Somme Mensuel: 359,974,046.30
+Somme OTARI: 791,990,099.88
+Différence: 432,016,053.58
+Exhaustivité: 45.4518%
